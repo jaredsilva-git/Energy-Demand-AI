@@ -19,3 +19,5 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+household_power_consumption.csv
+household_power_consumption.csv
